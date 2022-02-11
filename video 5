@@ -1,0 +1,13 @@
+Rangkuman video 5 : Bekerja dengan GIT
+-Install git terlebih dahulu, bisa di git-scm.com
+ 
+area repo git
+  -working tree
+  -staging area tersimpan .git
+  -history tersimpan .git
+
+Menambahkan file dengan git 
+  -buat file, usahain berada di satu folder dengan folder rujukan
+  -ketik cd <nama file> terminal atau gitdash
+  -ketik git init
+ 
