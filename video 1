@@ -1,0 +1,19 @@
+Rangkuman Video 1 : Apa itu Github dan Git
+-Github dan git adalah dua hal yang berbeda
+-version control sistem (vss) adalah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, wehsite dan kumpulan informasi.
+Git adalah sebuah software Vss, sedangkan github bisa disebut sebagai versi online dari git.
+Manfaat menggunakan Git/github adalah Membantu mengelola perubahan file, bisa untuk kolaborasi, mengetahui siapa yang mengubah file, fitur undo(kembali ke sistem yang sebelumnya)
+Istilah-istilah penting dalam dunia git/github :
+  -repository/repo -> semacam folder
+  -Commit -> snapshot file
+  -branch -> cabang dari commit
+  -hash -> penanda commit
+  -clone -> mengambil repo dari remote
+  -push -> mengirim
+  -pull -> mengambil
+  -Checkout -> berpindah commit
+Cara memindahkan file dari git ke github atau sebaliknya :  
+  -buat remote pada repo target 
+  -clone repo tersebut dan pindahkan ke tempat tujuan
+  
+  
