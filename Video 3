@@ -1,0 +1,9 @@
+Rangkuman video 3 : Branch
+Dilakukan ketika kita mau menambah fitur baru tampa mengubah jalur utama (master branch).
+Biasanya ada beberapa kondisi yang mengharuskan menggunakan branch :
+  - ketika memiliki ide, tetapi cenderung ide yang eksperimental
+  - ketika ada dua orang atau lebih yang mengerjakan file yang sama
+Cara menambahkan branch :
+  -Lakukan ketika saat akan commit
+  -Lakukan di awal saat mau membuat file
+
